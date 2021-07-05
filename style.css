@@ -46,8 +46,9 @@
 }
 .photo{
      margin-left: 100px;
-     margin-bottom: 100px;
+     margin-bottom: 80px;
      padding-bottom: 20px;
+     margin-top: 50px;
 }
 .bbb{
      color: rgb(253, 9, 9);
@@ -55,7 +56,47 @@
 .ccc{
      box-shadow: 10px 10px 30px greenyellow;
      width: 50%;
+     margin-bottom: 100px;
 }
+.photo-text{
+     color: blue;
+     margin-left: 30px;
+}
+.images img{
+     width: 100%;
+     border-radius: 10px;
+     height: 50%;
+     
+}
+.images-one{
+     display: flex;
+     height: 400px;
+     width: 500px;
+     margin-left: 50px;
+}
+.images-two{
+     display: flex;
+     height: 400px;
+     width: 500px;
+     margin-right: 70px;
+     margin-left: 60px;
+}
+
+.images-three{
+     display: flex;
+     height: 400px;
+     width: 500px;
+     margin-left: 50px;
+     margin-top: 10px;
+}
+.images-four{
+     display: flex;
+     height: 400px;
+     width: 500px;
+     margin-left: 50;
+}
+
+
 
      
      
