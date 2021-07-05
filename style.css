@@ -1,0 +1,36 @@
+.first-page{
+     
+     background-image: url(welcomw.jpg);
+     height: 330px;
+     width: 700px;
+     color: white;
+     width: 100%;
+     margin:0px; 
+     text-align: center;
+     padding-top: 365px;
+     font-size: 90px;
+     font-family: 'Poppins', sans-serif;
+}
+.second-page{
+     background-image: url(my\ world.jpeg);
+     height: 330px;
+     width: 700px;
+     color: white;
+     width: 100%;
+     margin-top:60px; 
+     text-align: center;
+     padding-top: 305px;
+     font-size: 50px;
+     padding-bottom: 100px;
+     color: rgb(245, 4, 225);
+
+}
+.width-two{
+     color: springgreen;
+}
+
+
+     
+     
+
+
